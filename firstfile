@@ -1,0 +1,2 @@
+print("hellow every one")
+name = input("inser you age")
